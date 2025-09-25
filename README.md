@@ -56,7 +56,7 @@
 
 **ClinSP** - A full-stack application designed for veterinary clinics, combining pet adoption management, pet registration, and an easy-to-use admin panel.\
 Languages & Tecnologies: `Next.js`, `TypeScript`, `Tailwind CSS`, `Firebase`, `Cloudinary`\
-🔗 [View Website](https://www.clinsp.com)
+🔗 [View Website](https://www.clinspvet.com)
 
 <br/>
 <br/>
