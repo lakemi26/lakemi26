@@ -56,7 +56,7 @@
 
 **ClinSP** - A full-stack application designed for veterinary clinics, combining pet adoption management, pet registration, and an easy-to-use admin panel.\
 Languages & Tecnologies: `Next.js`, `TypeScript`, `Tailwind CSS`, `Firebase`, `Cloudinary`\
-🔗 [View Website](https://clinsp.com)
+🔗 [View Website](https://www.clinsp.com)
 
 <br/>
 <br/>
@@ -65,7 +65,7 @@ Languages & Tecnologies: `Next.js`, `TypeScript`, `Tailwind CSS`, `Firebase`, `C
 
 **My portfólio** - A personal website to showcase my projects, skills, and experience as a software developer and designer.\
 Languages & Tecnologies: `Next.js`, `TypeScript`, `Tailwind CSS`\
-🔗 [View Website](https://lakemi.dev)
+🔗 [View Website](https://www.lakemi.dev)
 
 <br/>
 <br/>
